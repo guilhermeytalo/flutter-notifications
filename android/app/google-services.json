@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460772756128",
+    "project_id": "pushnotificationtutorial-bf464",
+    "storage_bucket": "pushnotificationtutorial-bf464.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460772756128:android:81d693e60ba26ead1f97c5",
+        "android_client_info": {
+          "package_name": "com.example.notificationapppock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBABkHt_zHB9clF_giZ_DJxdXYW8qYLWMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
