@@ -22,10 +22,10 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       debugShowCheckedModeBanner: false,
-      home: const MyHomePage(),
+      home: MyHomePage(),
       navigatorKey: navigatorKey,
       routes: {
-        '/notification_screen': (context) => const NotificationPage(),
+        '/notification_screen': (context) => NotificationPage(),
       },
     );
   }
